@@ -1,1 +1,1 @@
-# Sistem-de-monitorizare-a-num-rului-de-persoane-dintr-o-inc-pere
+# Sistem-de-monitorizare-a-numarului-de-persoane-dintr-o-incapere
